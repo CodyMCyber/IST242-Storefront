@@ -42,9 +42,199 @@
     {
         "id": 6,
         "name": "A&W Root Beer",
-        "price": 1.79,
+        "price": "$1.79",
         "type": "drink",
         "calories": 165,
         "inStock": 56
+    },
+    {
+        "id": 7,
+        "name": "A&W Root Beer",
+        "price": "$1.79",
+        "type": "drink",
+        "calories": 165,
+        "inStock": 56
+    },
+    {
+        "id": 8,
+        "name": "A&W Root Beer",
+        "price": "$1.79",
+        "type": "drink",
+        "calories": 165,
+        "inStock": 56
+    },
+    {
+        "id": 9,
+        "name": "A&W Root Beer",
+        "price": "$1.79",
+        "type": "drink",
+        "calories": 165,
+        "inStock": 56
+    },
+    {
+        "id": 10,
+        "name": "A&W Root Beer",
+        "price": "$1.79",
+        "type": "drink",
+        "calories": 165,
+        "inStock": 56
+    },
+    {
+        "id": 11,
+        "name": "Cheeseburger",
+        "price": "$4.99",
+        "type": "food",
+        "calories": 800,
+        "inStock": 80
+    },
+    {
+        "id": 12,
+        "name": "Double Cheeseburger",
+        "price": "$5.99",
+        "type": "food",
+        "calories": 900,
+        "inStock": 36
+    },
+    {
+        "id": 13,
+        "name": "Hotdog",
+        "price": "$1.99",
+        "type": "food",
+        "calories": 400,
+        "inStock": 48
+    },
+    {
+        "id": 14,
+        "name": "Salad",
+        "price": "$3.50",
+        "type": "food",
+        "calories": 200,
+        "inStock": 80
+    },
+    {
+        "id": 15,
+        "name": "Cheesesteak",
+        "price": "$7.99",
+        "type": "food",
+        "calories": 1100,
+        "inStock": 96
+    },
+    {
+        "id": 16,
+        "name": "Pizza",
+        "price": "$8.99",
+        "type": "food",
+        "calories": 1050,
+        "inStock": 25
+    },
+    {
+        "id": 17,
+        "name": "Chicken Fingers",
+        "price": "$4.99",
+        "type": "food",
+        "calories": 755,
+        "inStock": 356
+    },
+    {
+        "id": 18,
+        "name": "Mozzarella Sticks",
+        "price": "$4.99",
+        "type": "food",
+        "calories": 650,
+        "inStock": 488
+    },
+    {
+        "id": 19,
+        "name": "Taco",
+        "price": "$1.99",
+        "type": "food",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 20,
+        "name": "Corndog",
+        "price": "$2.99",
+        "type": "food",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 21,
+        "name": "Ice Cream",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 22,
+        "name": "Cotton Candy",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 23,
+        "name": "Pop Rocks",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 24,
+        "name": "Kit Kat",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 25,
+        "name": "Pretzel",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 26,
+        "name": "Shaved Ice",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 27,
+        "name": "Skittles",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },
+    {
+        "id": 28,
+        "name": "M&Ms",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },{
+        "id": 29,
+        "name": "Caramel Apple",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
+    },{
+        "id": 30,
+        "name": "Jolly Rancher",
+        "price": "$2.99",
+        "type": "snack",
+        "calories": 350,
+        "inStock": 35
     }
 ]
