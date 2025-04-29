@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Pepper",
+        "price": 1.59,
+        "type": "drink",
+        "calories": 160,
+        "inStock": 205
+    },
+    {
+        "id": 2,
+        "name": "Pepsi",
+        "price": 1.99,
+        "type": "drink",
+        "calories": 180,
+        "inStock": 197
+    },
+    {
+        "id": 3,
+        "name": "Coke",
+        "price": 1.99,
+        "type": "drink",
+        "calories": 185,
+        "inStock": 190
+    },
+    {
+        "id": 4,
+        "name": "Dr. Bob",
+        "price": 1.39,
+        "type": "drink",
+        "calories": 135,
+        "inStock": 150
+    },
+    {
+        "id": 5,
+        "name": "Sprite",
+        "price": 1.99,
+        "type": "drink",
+        "calories": 140,
+        "inStock": 113
+    },
+    {
+        "id": 6,
+        "name": "A&W Root Beer",
+        "price": 1.79,
+        "type": "drink",
+        "calories": 165,
+        "inStock": 56
+    }
+]

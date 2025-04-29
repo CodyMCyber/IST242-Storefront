@@ -1,0 +1,12 @@
+import styles from "./Food.module.css";
+
+export default function Food(props) {
+  return (<div className={styles.food}>
+    <h6>id: {props.id}</h6>
+    <h6>Drink name: {props.name}</h6>
+    <h6>Book price: ${props.price}</h6>
+    <h6>type: {props.type}</h6>
+    <h6>calories: {props.calories}</h6>
+    <h6>inStock: {props.inStock}</h6>
+  </div>);
+}

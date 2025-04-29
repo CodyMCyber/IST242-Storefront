@@ -1,0 +1,13 @@
+.movie_title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.movie_director{
+    font-weight: bold;
+    color: #9a4801;
+}
+
+.movie_stars{
+    font-size: 10px;
+}
